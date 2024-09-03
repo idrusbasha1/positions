@@ -1,0 +1,71 @@
+body{background-color:aqua;}
+header{
+    position: fixed;
+    z-index: +1;
+
+}
+header h1{
+    background-color: chocolate;
+    text-align: center;
+    padding: 20px;
+    width: 100vw;
+    position: fixed;
+    margin: -2%;
+
+
+}
+main{
+    position: relative;
+    z-index: -1;
+}
+.a{
+    position: absolute;
+    left: 80%;
+    margin-top: 60px;
+}
+.b{
+    position: absolute;
+    
+    margin-top: 42px;
+
+    
+}
+.c{
+    position: absolute;
+    top: 400%;
+    left: 80%;
+}
+.d{
+    position: absolute;
+    top: 400%;    
+}
+.e{
+    position:absolute;
+    top: 600%;
+    left: 26%;
+
+}
+.e img{
+    border-radius: 30px;
+    
+}
+.f{
+    position: absolute;
+    top: 900%;
+    left: 80%;
+}
+.g{
+    position: absolute;
+    top: 900%;
+}
+.h{
+    position: absolute;
+    top: 1300%;
+    left: 80%;
+}
+.i{
+    position: absolute;
+    top: 1300%;
+}
+
+
